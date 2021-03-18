@@ -1,1 +1,1 @@
-esta es una galeria de imagenes
+esta es una galeria de fotos
